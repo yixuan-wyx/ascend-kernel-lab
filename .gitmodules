@@ -1,0 +1,12 @@
+[submodule "upstream/ops-nn"]
+	path = upstream/ops-nn
+	url = https://gitcode.com/cann/ops-nn.git
+[submodule "upstream/ops-math"]
+	path = upstream/ops-math
+	url = https://gitcode.com/cann/ops-math.git
+[submodule "upstream/ops-transformer"]
+	path = upstream/ops-transformer
+	url = https://gitcode.com/cann/ops-transformer.git
+[submodule "upstream/ops-cv"]
+	path = upstream/ops-cv
+	url = https://gitcode.com/cann/ops-cv.git

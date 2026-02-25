@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# Conda
+.env/
+.conda/
+
+# VSCode
+.vscode/
+
+# Data
+.data/
+data/raw/
+data/parsed/
+data/features/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
